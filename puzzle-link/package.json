@@ -1,0 +1,17 @@
+{
+    "name": "puzzle-link",
+    "version": "1.0.0",
+    "description": "A match-3 puzzle game",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "@supabase/supabase-js": "^1.21.0"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
